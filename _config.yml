@@ -1,3 +1,6 @@
+---
+layout: splash
+---
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -263,7 +266,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash # single (default), splash
+      layout: single
       author_profile: true
       read_time: true
       comments: # true
