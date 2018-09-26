@@ -1,5 +1,5 @@
 ---
-permalink: /about/
+permalink: /blog/
 defaults:
   # _pages
   - scope:
@@ -10,4 +10,4 @@ defaults:
       author_profile: true
 ---
 
-Blank 'About' page
+Blank 'Blog' page
