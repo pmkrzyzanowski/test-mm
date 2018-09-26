@@ -1,13 +1,7 @@
 ---
 permalink: /blog/
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+title: "Blog"
+layout: single
 ---
 
 Blank 'Blog' page.
