@@ -1,5 +1,4 @@
 ---
-# layout: post
 title:  "Lists test"
 # categories: [testcategory]
 tags: [testtag]
