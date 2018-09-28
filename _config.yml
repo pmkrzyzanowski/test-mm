@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Tesserex"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tesserex Consulting Inc."
+description              : "Biotechnology consulting and scientific writing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "PK"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Biographical info here."
   location         : "Somewhere"
   email            :
   uri              :
