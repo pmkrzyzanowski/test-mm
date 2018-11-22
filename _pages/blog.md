@@ -1,7 +1,7 @@
 ---
 permalink: /blog/
 title: "Blog"
-layout: single
+layout: archive
 ---
 
 Blank 'Blog' page.
