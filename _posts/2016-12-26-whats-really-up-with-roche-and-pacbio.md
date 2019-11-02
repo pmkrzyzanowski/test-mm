@@ -25,3 +25,5 @@ How will Oxford Nanopore's MinION compare with Roche's Genia? At this point, the
 **Cost.** There are two major categories of cost sequencing teams are concerned with; operating costs and capital costs. The nice innovation that ONT has brought to the genomics field is the idea of zero (or nearly zero) upfront capital costs. You buy a flow cell for &lt;$1000 and start sequencing. The capital cost of a Genia is an unknown, but if it's anywhere near that of PacBio or Illumina equipment it'll be an obstacle to adoption in the field. Unfortunately, without a target purchase price (and other assumptions about the Genia's longevity) it's impossible to come up with a cost model and estimated $/gigabase.
 
 Some guidance from Roche is needed here both in terms of cost and accuracy. I haven't even touched read length as a dimension of performance, but given ONT's extreme read lengths (up to 200kb, more commonly ~50kb), Genia needs to easily hit &gt;30-50kb even to be considered as competition.
+
+<!--snip-->
