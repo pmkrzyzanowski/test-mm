@@ -1,6 +1,6 @@
----
-layout: splash
----
+# ---
+# layout: splash
+# ---
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -19,10 +19,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "defa
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Tesserex Consulting Inc."
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Tesserex Consulting Inc."
+description              : "Biotechnology consulting and scientific writing"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,12 +103,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "by Paul Krzyzanowski"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : # "Biographical info here."
+  location         : # "Toronto, Canada"
   email            :
-  uri              :
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -122,13 +122,13 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : pmkrzyzanowski # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : pmkrzyzanowski
   vine             :
   weibo            :
   xing             :
@@ -136,6 +136,7 @@ author:
 
 
 # Reading Files
+# include: ["_pages"]
 include:
   - .htaccess
   - _pages
@@ -176,7 +177,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "<!--snip-->"
 incremental: false
 
 
@@ -201,7 +202,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -268,7 +269,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
