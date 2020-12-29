@@ -1,0 +1,9 @@
+---
+title: "Illumina still holds the sequencing crown, for now"
+---
+
+Keith Robinson at Omics! Omics! writes about[ last year's developments in genomics sequencing technologies](http://omicsomics.blogspot.ca/2013/01/illuminas-blizzard.html), specifically about several advances brought to market by Illumina:
+
+> All of these should enable Illumina to maintain its dominance of the  sequencing research market, while also helping set up the bigger payoff  clinical applications such as those developed by Verinata. The speed of  HiSeq rapid mode should largely hold off Ion Proton (when it finally  reaches a human genome per run), and may well make Complete Genomics  technology nearly obsolete in the clinical space, given that "actionable  medical result" and "needed stat" routinely show up in the same  sentence.
+
+The prediction of Complete Genomics' obsolescence, at least for clinical sequencing, is partly due to their business model of sequencing as a service. In reality, rapid clinical sequencing can (should?) be performed by a number of distributed laboratories near the sites requesting analysis, i.e. local hospitals. Labs like this are able to analyze sample in nearly real-time as compared to Complete Genomics, which still requests that samples be sent to a centralized service. This is in addition to the challenges created by their odd <a href="http://media.completegenomics.com/documents/Technology+White+Paper.pdf">fragmented read format</a> and short (35bp) read lengths that make using any software except that provided by Complete Genomics difficult. With a <a href="http://www.google.com/finance?chdnp=1&amp;chdd=1&amp;chds=1&amp;chdv=1&amp;chvs=Logarithmic&amp;chdeh=0&amp;chfdeh=0&amp;chdet=1358216794065&amp;chddm=213486&amp;chls=IntervalBasedLine&amp;q=NASDAQ:GNOM&amp;ntsp=0&amp;ei=Tb70ULiTK6Xm0gGh_gE">constantly sliding stock price</a>, I don't think I'm the only one with questions about Complete Genomics' long-term value.
